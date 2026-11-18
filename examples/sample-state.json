@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "year": 2026,
+    "company": "ExampleCo",
+    "role": "Founder",
+    "goal": "3 co-sell conversations with dated next steps",
+    "event_dates": "EXAMPLE - verify on the official site",
+    "days_on_site": "Mon-Thu"
+  },
+  "items": [
+    {"id": "s1", "kind": "session", "title": "EXAMPLE session", "date": "2026-12-01", "start": "10:00", "end": "11:00", "venue": "EXAMPLE venue", "match": "High", "picked": true, "why": "Example row - replace with a real, verified session", "decision": "", "example": true},
+    {"id": "m1", "kind": "prospect_meeting", "title": "EXAMPLE meeting", "date": "2026-12-01", "start": "14:00", "end": "14:30", "company": "Globex (example)", "ask": "Intro to their platform team", "decision": "Keep", "example": true}
+  ],
+  "notes": [],
+  "actions": [{"task": "EXAMPLE: send same-day follow-up", "owner": "me", "due": "2026-12-01", "source": "m1", "done": false}],
+  "contacts": [],
+  "pipeline": [],
+  "materials": [],
+  "logistics": []
+}
